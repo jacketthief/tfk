@@ -1,4 +1,2 @@
 # Tomb of the Forgotten King
-Dungeon delve in an unforgiving desert tomb--escape with your loot before you die of dehydration.
-
-Java Minecraft mini-game datapack and resource pack
+Dungeon delve in an unforgiving desert tomb -- escape with your treasure before you die of thirst! [Minecraft Java 1.21.8]
