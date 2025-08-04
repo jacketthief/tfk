@@ -1,0 +1,34 @@
+{
+  "total_mobs": 4,
+  "simultaneous_mobs": 2,
+  "simultaneous_mobs_added_per_player": 0.5,
+  "spawn_potentials": [
+    {
+      "data": {
+        "entity": {
+          "id": "minecraft:husk",
+          "CustomName": {
+            "text": "Pickpocket",
+            "color": "gold",
+            "bold": true
+          },
+          "CustomNameVisible": true,
+          "DeathLootTable": "tfk:lvl1/husks_ominous"
+        },
+        "equipment": {
+          "loot_table": "tfk:lvl1/equipment",
+          "slot_drop_chances": 0
+        }
+      },
+      "weight": 1
+    }
+  ],
+  "ticks_between_spawn": 20,
+  "loot_tables_to_eject": [
+    {
+      "data": "tfk:lvl1/ominous_spawner",
+      "weight": 1
+    }
+  ],
+  "items_to_drop_when_ominous": "tfk:lvl1/ominous_spawner"
+}

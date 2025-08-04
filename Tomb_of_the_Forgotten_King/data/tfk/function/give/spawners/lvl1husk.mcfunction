@@ -1,0 +1,1 @@
+give @p trial_spawner[block_entity_data={normal_config:"tfk:husk_normal",id:"minecraft:trial_spawner",ominous_config:"tfk:husk_ominous"}]

@@ -1,0 +1,1 @@
+give @p decorated_pot[block_entity_data={id:"decorated_pot",LootTable:"tfk:lvl1/pot"}]
